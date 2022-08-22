@@ -1,4 +1,6 @@
-### Hi there, I'm Zacharias a PHP Fullstack Developer 👋
+### Hi! My name is Zacharias! 👋
+
+I am a passionated full-stack Laravel developer!
 
 - 🔭 I’m currently working on a impressive performance optimization for some clients!
 - 🌱 I’m currently learning Vue.js!
@@ -28,8 +30,4 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" **alt="Linux" width="40" height="40"/>
 </div>
 
-### :fire: My Stats :
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=sairahcaz&theme=dark&background=000000)](https://git.io/streak-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sairahcaz&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+<img align="left" alt="Zacharia's Github Stats" src="https://github-readme-stats.vercel.app/api?username=sairahcaz&show_icons=true&hide_border=true" />
