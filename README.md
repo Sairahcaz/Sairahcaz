@@ -30,4 +30,4 @@ I am a passionated full-stack Laravel developer!
   <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" **alt="Linux" width="40" height="40"/>
 </div>
 
-<img align="left" alt="Zacharia's Github Stats" src="https://github-readme-stats.vercel.app/api?username=sairahcaz&show_icons=true&hide_border=true" />
+<img align="right" alt="Zacharia's Github Stats" src="https://github-readme-stats.vercel.app/api?username=sairahcaz&show_icons=true&hide_border=true" />
