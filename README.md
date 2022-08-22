@@ -2,6 +2,8 @@
 
 I am a passionated full-stack Laravel developer!
 
+<img align="right" alt="Zacharia's Github Stats" src="https://github-readme-stats.vercel.app/api?username=sairahcaz&show_icons=true&hide_border=true" />
+
 - 🔭 I’m currently working on a impressive performance optimization for some clients!
 - 🌱 I’m currently learning Vue.js!
 - 👯 I’m looking to collaborate on Laravel!
@@ -30,4 +32,3 @@ I am a passionated full-stack Laravel developer!
   <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" **alt="Linux" width="40" height="40"/>
 </div>
 
-<img align="right" alt="Zacharia's Github Stats" src="https://github-readme-stats.vercel.app/api?username=sairahcaz&show_icons=true&hide_border=true" />
