@@ -1,6 +1,6 @@
-### Hi! My name is Zacharias! 👋
+### Hi! My name is Zacharias 👋
 
-I am a passionated full-stack Laravel developer!
+I am a passionated full-stack Laravel developer with 15 years of PHP experience!
 
 <img align="right" alt="Zacharia's Github Stats" src="https://github-readme-stats.vercel.app/api?username=sairahcaz&show_icons=true&hide_border=true" />
 
@@ -9,7 +9,7 @@ I am a passionated full-stack Laravel developer!
 - 👯 I’m looking to collaborate on Laravel!
 - 🤔 I’m looking for help with my cheeky daughter!
 - 💬 Ask me anything about PHP!
-- 📫 How to reach me: https://zacharias-creutznacher.de
+- 📫 How to reach me: https://zacharias-creutznacher.de/english
 - ⚡ Fun fact: I really enjoy coding :D
 
 ### Languages and Tools:
