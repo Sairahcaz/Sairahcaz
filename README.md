@@ -2,7 +2,7 @@
 
 I am a passionated full-stack Laravel developer with 15 years of PHP experience!
 
-<img align="right" alt="Zacharia's Github Stats" src="https://github-readme-stats.vercel.app/api?username=sairahcaz&show_icons=true&hide_border=true" />
+<!--img align="right" alt="Zacharia's Github Stats" src="https://github-readme-stats.vercel.app/api?username=sairahcaz&show_icons=true&hide_border=true" /-->
 
 - 🔭 I’m currently working on a impressive performance optimization for some clients!
 - 🌱 I’m currently learning Vue.js!
