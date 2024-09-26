@@ -8,7 +8,7 @@ I am a passionated full-stack Laravel developer with 15 years of PHP experience!
 - 🌱 I’m currently learning Vue.js!
 - 👯 I’m looking to collaborate on Laravel!
 - 💬 Ask me anything about PHP!
-- 📫 How to reach me: https://zacharias-creutznacher.de/english
+- 📫 How to reach me: https://zacharias-creutznacher.de
 - ⚡ Fun fact: I really enjoy coding :D
 
 ### Languages and Tools:
