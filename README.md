@@ -31,3 +31,11 @@ I am a passionated full-stack Laravel developer with 15 years of PHP experience!
   <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" **alt="Linux" width="40" height="40"/>
 </div>
 
+<div align="center">
+  <a href="https://commit-history.com/Sairahcaz">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://commit-history.com/embed/Sairahcaz?theme=dark" />
+      <img alt="Sairahcaz's commit history" src="https://commit-history.com/embed/Sairahcaz" />
+    </picture>
+  </a>
+</div>
