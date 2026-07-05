@@ -30,7 +30,9 @@ I am a passionated full-stack Laravel developer with 15 years of PHP experience!
   <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="Bahs" **alt="Bash" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" **alt="Linux" width="40" height="40"/>
 </div>
-
+<br>
+<br>
+<br>
 <div align="center">
   <a href="https://commit-history.com/Sairahcaz">
     <picture>
